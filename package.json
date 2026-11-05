@@ -1,0 +1,13 @@
+{
+  "name": "poi-plugin-remodel-cost",
+  "version": "0.1.0",
+  "description": "统计未改造舰船所需的燃料与弹药",
+  "main": "index.js",
+  "license": "MIT",
+  "poiPlugin": {
+    "title": "改造资源",
+    "description": "列出还没改造的舰船，汇总所需燃料与弹药，并与当前资源对比",
+    "icon": "fa/wrench",
+    "priority": 30
+  }
+}
